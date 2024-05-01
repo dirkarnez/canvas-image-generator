@@ -1,2 +1,2 @@
-[canvas-font-png](https://dirkarnez.github.io/canvas-font-png)
-==============================================================
+[canvas-image-generator](https://dirkarnez.github.io/canvas-image-generator)
+============================================================================
